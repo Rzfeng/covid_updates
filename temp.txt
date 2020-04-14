@@ -1,0 +1,996 @@
+<table class="wikitable sortable" style="text-align:right">
+<tbody><tr>
+<th colspan="5">Coronavirus disease 2019 (COVID-19) cases in Illinois<sup class="reference" id="cite_ref-idph-official_1-4"><a href="#cite_note-idph-official-1">[1]</a></sup>
+<p>Updated April 13, 2020
+</p>
+</th></tr>
+<tr>
+<th scope="col">County
+</th>
+<th scope="col">Active Cases
+</th>
+<th scope="col">Deaths
+</th>
+<th scope="col">Recovered
+</th>
+<th>Total Cases
+</th></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Adams_County,_Illinois" title="Adams County, Illinois">Adams</a>
+</td>
+<td>26
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>26
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Bond_County,_Illinois" title="Bond County, Illinois">Bond</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Boone_County,_Illinois" title="Boone County, Illinois">Boone</a>
+</td>
+<td>12
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>13
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Bureau_County,_Illinois" title="Bureau County, Illinois">Bureau</a>
+</td>
+<td>6
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Calhoun_County,_Illinois" title="Calhoun County, Illinois">Calhoun</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Carroll_County,_Illinois" title="Carroll County, Illinois">Carroll</a>
+</td>
+<td>4
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>5
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Champaign_County,_Illinois" title="Champaign County, Illinois">Champaign</a>
+</td>
+<td>85
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>87
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Christian_County,_Illinois" title="Christian County, Illinois">Christian</a>
+</td>
+<td>21
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>24
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Clark_County,_Illinois" title="Clark County, Illinois">Clark</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Clinton_County,_Illinois" title="Clinton County, Illinois">Clinton</a>
+</td>
+<td>38
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>38
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Coles_County,_Illinois" title="Coles County, Illinois">Coles</a>
+</td>
+<td>6
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Cook_County,_Illinois" title="Cook County, Illinois">Cook</a>
+</td>
+<td>14,929
+</td>
+<td>543
+</td>
+<td>2
+</td>
+<td>15,474
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Crawford_County,_Illinois" title="Crawford County, Illinois">Crawford</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Cumberland_County,_Illinois" title="Cumberland County, Illinois">Cumberland</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/DeKalb_County,_Illinois" title="DeKalb County, Illinois">DeKalb</a>
+</td>
+<td>33
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>34
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/DeWitt_County,_Illinois" title="DeWitt County, Illinois">DeWitt</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Douglas_County,_Illinois" title="Douglas County, Illinois">Douglas</a>
+</td>
+<td>11
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>11
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/DuPage_County,_Illinois" title="DuPage County, Illinois">DuPage</a>
+</td>
+<td>1,167
+</td>
+<td>56
+</td>
+<td>0
+</td>
+<td>1,223
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Effingham_County,_Illinois" title="Effingham County, Illinois">Effingham</a>
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>3
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Fayette_County,_Illinois" title="Fayette County, Illinois">Fayette</a>
+</td>
+<td>10
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>11
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Ford_County,_Illinois" title="Ford County, Illinois">Ford</a>
+</td>
+<td>3
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Franklin_County,_Illinois" title="Franklin County, Illinois">Franklin</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Fulton_County,_Illinois" title="Fulton County, Illinois">Fulton</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Gallatin_County,_Illinois" title="Gallatin County, Illinois">Gallatin</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Greene_County,_Illinois" title="Greene County, Illinois">Greene</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Grundy_County,_Illinois" title="Grundy County, Illinois">Grundy</a>
+</td>
+<td>21
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>21
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Hancock_County,_Illinois" title="Hancock County, Illinois">Hancock</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Henry_County,_Illinois" title="Henry County, Illinois">Henry</a>
+</td>
+<td>23
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>23
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Iroquois_County,_Illinois" title="Iroquois County, Illinois">Iroquois</a>
+</td>
+<td>9
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>9
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jackson_County,_Illinois" title="Jackson County, Illinois">Jackson</a>
+</td>
+<td>31
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>33
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jasper_County,_Illinois" title="Jasper County, Illinois">Jasper</a>
+</td>
+<td>2
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>3
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jefferson_County,_Illinois" title="Jefferson County, Illinois">Jefferson</a>
+</td>
+<td>8
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>8
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jersey_County,_Illinois" title="Jersey County, Illinois">Jersey</a>
+</td>
+<td>6
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Jo_Daviess_County,_Illinois" title="Jo Daviess County, Illinois">Jo Daviess</a>
+</td>
+<td>11
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>11
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Johnson_County,_Illinois" title="Johnson County, Illinois">Johnson</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Kane_County,_Illinois" title="Kane County, Illinois">Kane</a>
+</td>
+<td>397
+</td>
+<td>24
+</td>
+<td>0
+</td>
+<td>421
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Kankakee_County,_Illinois" title="Kankakee County, Illinois">Kankakee</a>
+</td>
+<td>201
+</td>
+<td>9
+</td>
+<td>0
+</td>
+<td>210
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Kendall_County,_Illinois" title="Kendall County, Illinois">Kendall</a>
+</td>
+<td>112
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>114
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Knox_County,_Illinois" title="Knox County, Illinois">Knox</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lake_County,_Illinois" title="Lake County, Illinois">Lake</a>
+</td>
+<td>1,471
+</td>
+<td>45
+</td>
+<td>0
+</td>
+<td>1,516
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/LaSalle_County,_Illinois" title="LaSalle County, Illinois">LaSalle</a>
+</td>
+<td>20
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>21
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lawrence_County,_Illinois" title="Lawrence County, Illinois">Lawrence</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Lee_County,_Illinois" title="Lee County, Illinois">Lee</a>
+</td>
+<td>14
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>14
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Livingston_County,_Illinois" title="Livingston County, Illinois">Livingston</a>
+</td>
+<td>17
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>17
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Logan_County,_Illinois" title="Logan County, Illinois">Logan</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Macon_County,_Illinois" title="Macon County, Illinois">Macon</a>
+</td>
+<td>41
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>42
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Macoupin_County,_Illinois" title="Macoupin County, Illinois">Macoupin</a>
+</td>
+<td>16
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>16
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Madison_County,_Illinois" title="Madison County, Illinois">Madison</a>
+</td>
+<td>113
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>115
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Marion_County,_Illinois" title="Marion County, Illinois">Marion</a>
+</td>
+<td>13
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>13
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Marshall_County,_Illinois" title="Marshall County, Illinois">Marshall</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Mason_County,_Illinois" title="Mason County, Illinois">Mason</a>
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>3
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Massac_County,_Illinois" title="Massac County, Illinois">Massac</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/McDonough_County,_Illinois" title="McDonough County, Illinois">McDonough</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/McHenry_County,_Illinois" title="McHenry County, Illinois">McHenry</a>
+</td>
+<td>238
+</td>
+<td>7
+</td>
+<td>0
+</td>
+<td>245
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/McLean_County,_Illinois" title="McLean County, Illinois">McLean</a>
+</td>
+<td>77
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>79
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Menard_County,_Illinois" title="Menard County, Illinois">Menard</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Mercer_County,_Illinois" title="Mercer County, Illinois">Mercer</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Monroe_County,_Illinois" title="Monroe County, Illinois">Monroe</a>
+</td>
+<td>45
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>46
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Montgomery_County,_Illinois" title="Montgomery County, Illinois">Montgomery</a>
+</td>
+<td>8
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>9
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Morgan_County,_Illinois" title="Morgan County, Illinois">Morgan</a>
+</td>
+<td>9
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>10
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Moultrie_County,_Illinois" title="Moultrie County, Illinois">Moultrie</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Ogle_County,_Illinois" title="Ogle County, Illinois">Ogle</a>
+</td>
+<td>26
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>26
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Peoria_County,_Illinois" title="Peoria County, Illinois">Peoria</a>
+</td>
+<td>29
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>30
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Perry_County,_Illinois" title="Perry County, Illinois">Perry</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Piatt_County,_Illinois" title="Piatt County, Illinois">Piatt</a>
+</td>
+<td>6
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>6
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Pike_County,_Illinois" title="Pike County, Illinois">Pike</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Pulaski_County,_Illinois" title="Pulaski County, Illinois">Pulaski</a>
+</td>
+<td>5
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>5
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Randolph_County,_Illinois" title="Randolph County, Illinois">Randolph</a>
+</td>
+<td>41
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>41
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Richland_County,_Illinois" title="Richland County, Illinois">Richland</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Rock_Island_County,_Illinois" title="Rock Island County, Illinois">Rock Island</a>
+</td>
+<td>102
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>105
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Saline_County,_Illinois" title="Saline County, Illinois">Saline</a>
+</td>
+<td>3
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>3
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Sangamon_County,_Illinois" title="Sangamon County, Illinois">Sangamon</a>
+</td>
+<td>46
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>48
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Schuyler_County,_Illinois" title="Schuyler County, Illinois">Schuyler</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Shelby_County,_Illinois" title="Shelby County, Illinois">Shelby</a>
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>4
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/St._Clair_County,_Illinois" title="St. Clair County, Illinois">St. Clair</a>
+</td>
+<td>194
+</td>
+<td>8
+</td>
+<td>0
+</td>
+<td>202
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Stark_County,_Illinois" title="Stark County, Illinois">Stark</a>
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>1
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Stephenson_County,_Illinois" title="Stephenson County, Illinois">Stephenson</a>
+</td>
+<td>8
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>8
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Tazewell_County,_Illinois" title="Tazewell County, Illinois">Tazewell</a>
+</td>
+<td>17
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>19
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Vermilion_County,_Illinois" title="Vermilion County, Illinois">Vermilion</a>
+</td>
+<td>8
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>8
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Wabash_County,_Illinois" title="Wabash County, Illinois">Wabash</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Warren_County,_Illinois" title="Warren County, Illinois">Warren</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Washington_County,_Illinois" title="Washington County, Illinois">Washington</a>
+</td>
+<td>2
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>2
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Whiteside_County,_Illinois" title="Whiteside County, Illinois">Whiteside</a>
+</td>
+<td>27
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>28
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Will_County,_Illinois" title="Will County, Illinois">Will</a>
+</td>
+<td>1,220
+</td>
+<td>63
+</td>
+<td>0
+</td>
+<td>1,283
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Williamson_County,_Illinois" title="Williamson County, Illinois">Williamson</a>
+</td>
+<td>10
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>10
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Winnebago_County,_Illinois" title="Winnebago County, Illinois">Winnebago</a>
+</td>
+<td>95
+</td>
+<td>4
+</td>
+<td>0
+</td>
+<td>99
+</td></tr>
+<tr>
+<td style="text-align:left;"><a href="/wiki/Woodford_County,_Illinois" title="Woodford County, Illinois">Woodford</a>
+</td>
+<td>9
+</td>
+<td>0
+</td>
+<td>0
+</td>
+<td>9
+</td></tr>
+<tr>
+<td style="text-align:left;">Unknown County
+</td>
+<td>64
+</td>
+<td>1
+</td>
+<td>0
+</td>
+<td>65
+</td></tr>
+<tr>
+<th style="text-align:right;">Total
+</th>
+<th style="text-align:right;">21,229
+</th>
+<th style="text-align:right;">794
+</th>
+<th style="text-align:right;">2
+</th>
+<th style="text-align:right;">22,025
+</th></tr></tbody></table>

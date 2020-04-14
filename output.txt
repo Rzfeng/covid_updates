@@ -1,0 +1,819 @@
+[<table class="wikitable plainrowheaders sortable mw-collapsible mw-collapsed" style="text-align:right; font-size:100%; margin:0px 0px 0em 0em">
+<tbody><tr>
+<th colspan="5">2020 coronavirus cases in Wisconsin by county<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup>
+</th></tr>
+<tr class="covid-sticky">
+<th colspan="2" scope="col">County
+</th>
+<th scope="col">Positive
+</th>
+<th data-sort-type="number" scope="col">Negative
+</th>
+<th scope="col">Deaths
+</th></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Adams_County,_Wisconsin" title="Adams County, Wisconsin">Adams</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">91
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Ashland_County,_Wisconsin" title="Ashland County, Wisconsin">Ashland</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">65
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Barron_County,_Wisconsin" title="Barron County, Wisconsin">Barron</a>
+</th>
+<td style="padding:0px 2px;">6
+</td>
+<td style="padding:0px 2px;">439
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Bayfield_County,_Wisconsin" title="Bayfield County, Wisconsin">Bayfield</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">93
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Brown_County,_Wisconsin" title="Brown County, Wisconsin">Brown</a>
+</th>
+<td style="padding:0px 2px;">77
+</td>
+<td style="padding:0px 2px;">881
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Buffalo_County,_Wisconsin" title="Buffalo County, Wisconsin">Buffalo</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">112
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Burnett_County,_Wisconsin" title="Burnett County, Wisconsin">Burnett</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">49
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Calumet_County,_Wisconsin" title="Calumet County, Wisconsin">Calumet</a>
+</th>
+<td style="padding:0px 2px;">5
+</td>
+<td style="padding:0px 2px;">199
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Chippewa_County,_Wisconsin" title="Chippewa County, Wisconsin">Chippewa</a>
+</th>
+<td style="padding:0px 2px;">20
+</td>
+<td style="padding:0px 2px;">601
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Clark_County,_Wisconsin" title="Clark County, Wisconsin">Clark</a>
+</th>
+<td style="padding:0px 2px;">8
+</td>
+<td style="padding:0px 2px;">104
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Columbia_County,_Wisconsin" title="Columbia County, Wisconsin">Columbia</a>
+</th>
+<td style="padding:0px 2px;">25
+</td>
+<td style="padding:0px 2px;">467
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Crawford_County,_Wisconsin" title="Crawford County, Wisconsin">Crawford</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">127
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Dane_County,_Wisconsin" title="Dane County, Wisconsin">Dane</a>
+</th>
+<td style="padding:0px 2px;">340
+</td>
+<td style="padding:0px 2px;">5,814
+</td>
+<td style="padding:0px 2px;">12
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Dodge_County,_Wisconsin" title="Dodge County, Wisconsin">Dodge</a>
+</th>
+<td style="padding:0px 2px;">19
+</td>
+<td style="padding:0px 2px;">525
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Door_County,_Wisconsin" title="Door County, Wisconsin">Door</a>
+</th>
+<td style="padding:0px 2px;">9
+</td>
+<td style="padding:0px 2px;">98
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Douglas_County,_Wisconsin" title="Douglas County, Wisconsin">Douglas</a>
+</th>
+<td style="padding:0px 2px;">7
+</td>
+<td style="padding:0px 2px;">309
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Dunn_County,_Wisconsin" title="Dunn County, Wisconsin">Dunn</a>
+</th>
+<td style="padding:0px 2px;">9
+</td>
+<td style="padding:0px 2px;">574
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Eau_Claire_County,_Wisconsin" title="Eau Claire County, Wisconsin">Eau Claire</a>
+</th>
+<td style="padding:0px 2px;">21
+</td>
+<td style="padding:0px 2px;">1,153
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Florence_County,_Wisconsin" title="Florence County, Wisconsin">Florence</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">7
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Fond_du_Lac_County,_Wisconsin" title="Fond du Lac County, Wisconsin">Fond du Lac</a>
+</th>
+<td style="padding:0px 2px;">57
+</td>
+<td style="padding:0px 2px;">846
+</td>
+<td style="padding:0px 2px;">2
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Forest_County,_Wisconsin" title="Forest County, Wisconsin">Forest</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">32
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Grant_County,_Wisconsin" title="Grant County, Wisconsin">Grant</a>
+</th>
+<td style="padding:0px 2px;">6
+</td>
+<td style="padding:0px 2px;">256
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Green_County,_Wisconsin" title="Green County, Wisconsin">Green</a>
+</th>
+<td style="padding:0px 2px;">9
+</td>
+<td style="padding:0px 2px;">193
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Green_Lake_County,_Wisconsin" title="Green Lake County, Wisconsin">Green Lake</a>
+</th>
+<td style="padding:0px 2px;">1
+</td>
+<td style="padding:0px 2px;">94
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Iowa_County,_Wisconsin" title="Iowa County, Wisconsin">Iowa</a>
+</th>
+<td style="padding:0px 2px;">5
+</td>
+<td style="padding:0px 2px;">150
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Iron_County,_Wisconsin" title="Iron County, Wisconsin">Iron</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">23
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Jackson_County,_Wisconsin" title="Jackson County, Wisconsin">Jackson</a>
+</th>
+<td style="padding:0px 2px;">10
+</td>
+<td style="padding:0px 2px;">131
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Jefferson_County,_Wisconsin" title="Jefferson County, Wisconsin">Jefferson</a>
+</th>
+<td style="padding:0px 2px;">24
+</td>
+<td style="padding:0px 2px;">495
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Juneau_County,_Wisconsin" title="Juneau County, Wisconsin">Juneau</a>
+</th>
+<td style="padding:0px 2px;">7
+</td>
+<td style="padding:0px 2px;">201
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Kenosha_County,_Wisconsin" title="Kenosha County, Wisconsin">Kenosha</a>
+</th>
+<td style="padding:0px 2px;">182
+</td>
+<td style="padding:0px 2px;">1,172
+</td>
+<td style="padding:0px 2px;">4
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Kewaunee_County,_Wisconsin" title="Kewaunee County, Wisconsin">Kewaunee</a>
+</th>
+<td style="padding:0px 2px;">4
+</td>
+<td style="padding:0px 2px;">61
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/La_Crosse_County,_Wisconsin" title="La Crosse County, Wisconsin">La Crosse</a>
+</th>
+<td style="padding:0px 2px;">25
+</td>
+<td style="padding:0px 2px;">1,106
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Lafayette_County,_Wisconsin" title="Lafayette County, Wisconsin">Lafayette</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">54
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Langlade_County,_Wisconsin" title="Langlade County, Wisconsin">Langlade</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">54
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Lincoln_County,_Wisconsin" title="Lincoln County, Wisconsin">Lincoln</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">109
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Manitowoc_County,_Wisconsin" title="Manitowoc County, Wisconsin">Manitowoc</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">170
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Marathon_County,_Wisconsin" title="Marathon County, Wisconsin">Marathon</a>
+</th>
+<td style="padding:0px 2px;">14
+</td>
+<td style="padding:0px 2px;">395
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Marinette_County,_Wisconsin" title="Marinette County, Wisconsin">Marinette</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">149
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Marquette_County,_Wisconsin" title="Marquette County, Wisconsin">Marquette</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">99
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Menominee_County,_Wisconsin" title="Menominee County, Wisconsin">Menominee</a>
+</th>
+<td style="padding:0px 2px;">1
+</td>
+<td style="padding:0px 2px;">8
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Milwaukee_County,_Wisconsin" title="Milwaukee County, Wisconsin">Milwaukee</a>
+</th>
+<td style="padding:0px 2px;">1,743
+</td>
+<td style="padding:0px 2px;">7,461
+</td>
+<td style="padding:0px 2px;">94
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Monroe_County,_Wisconsin" title="Monroe County, Wisconsin">Monroe</a>
+</th>
+<td style="padding:0px 2px;">8
+</td>
+<td style="padding:0px 2px;">422
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Oconto_County,_Wisconsin" title="Oconto County, Wisconsin">Oconto</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">139
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Oneida_County,_Wisconsin" title="Oneida County, Wisconsin">Oneida</a>
+</th>
+<td style="padding:0px 2px;">6
+</td>
+<td style="padding:0px 2px;">179
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Outagamie_County,_Wisconsin" title="Outagamie County, Wisconsin">Outagamie</a>
+</th>
+<td style="padding:0px 2px;">29
+</td>
+<td style="padding:0px 2px;">625
+</td>
+<td style="padding:0px 2px;">2
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Ozaukee_County,_Wisconsin" title="Ozaukee County, Wisconsin">Ozaukee</a>
+</th>
+<td style="padding:0px 2px;">72
+</td>
+<td style="padding:0px 2px;">548
+</td>
+<td style="padding:0px 2px;">9
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Pepin_County,_Wisconsin" title="Pepin County, Wisconsin">Pepin</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">74
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Pierce_County,_Wisconsin" title="Pierce County, Wisconsin">Pierce</a>
+</th>
+<td style="padding:0px 2px;">7
+</td>
+<td style="padding:0px 2px;">263
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Polk_County,_Wisconsin" title="Polk County, Wisconsin">Polk</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">135
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Portage_County,_Wisconsin" title="Portage County, Wisconsin">Portage</a>
+</th>
+<td style="padding:0px 2px;">4
+</td>
+<td style="padding:0px 2px;">189
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Price_County,_Wisconsin" title="Price County, Wisconsin">Price</a>
+</th>
+<td style="padding:0px 2px;">1
+</td>
+<td style="padding:0px 2px;">42
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Racine_County,_Wisconsin" title="Racine County, Wisconsin">Racine</a>
+</th>
+<td style="padding:0px 2px;">117
+</td>
+<td style="padding:0px 2px;">934
+</td>
+<td style="padding:0px 2px;">4
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Richland_County,_Wisconsin" title="Richland County, Wisconsin">Richland</a>
+</th>
+<td style="padding:0px 2px;">5
+</td>
+<td style="padding:0px 2px;">156
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Rock_County,_Wisconsin" title="Rock County, Wisconsin">Rock</a>
+</th>
+<td style="padding:0px 2px;">60
+</td>
+<td style="padding:0px 2px;">1,002
+</td>
+<td style="padding:0px 2px;">3
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Rusk_County,_Wisconsin" title="Rusk County, Wisconsin">Rusk</a>
+</th>
+<td style="padding:0px 2px;">3
+</td>
+<td style="padding:0px 2px;">71
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Sauk_County,_Wisconsin" title="Sauk County, Wisconsin">Sauk</a>
+</th>
+<td style="padding:0px 2px;">26
+</td>
+<td style="padding:0px 2px;">427
+</td>
+<td style="padding:0px 2px;">2
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Sawyer_County,_Wisconsin" title="Sawyer County, Wisconsin">Sawyer</a>
+</th>
+<td style="padding:0px 2px;">1
+</td>
+<td style="padding:0px 2px;">140
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Shawano_County,_Wisconsin" title="Shawano County, Wisconsin">Shawano</a>
+</th>
+<td style="padding:0px 2px;">5
+</td>
+<td style="padding:0px 2px;">165
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Sheboygan_County,_Wisconsin" title="Sheboygan County, Wisconsin">Sheboygan</a>
+</th>
+<td style="padding:0px 2px;">36
+</td>
+<td style="padding:0px 2px;">547
+</td>
+<td style="padding:0px 2px;">2
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/St._Croix_County,_Wisconsin" title="St. Croix County, Wisconsin">St. Croix</a>
+</th>
+<td style="padding:0px 2px;">10
+</td>
+<td style="padding:0px 2px;">262
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Taylor_County,_Wisconsin" title="Taylor County, Wisconsin">Taylor</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">61
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Trempealeau_County,_Wisconsin" title="Trempealeau County, Wisconsin">Trempealeau</a>
+</th>
+<td style="padding:0px 2px;">1
+</td>
+<td style="padding:0px 2px;">283
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Vernon_County,_Wisconsin" title="Vernon County, Wisconsin">Vernon</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">215
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Vilas_County,_Wisconsin" title="Vilas County, Wisconsin">Vilas</a>
+</th>
+<td style="padding:0px 2px;">4
+</td>
+<td style="padding:0px 2px;">77
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Walworth_County,_Wisconsin" title="Walworth County, Wisconsin">Walworth</a>
+</th>
+<td style="padding:0px 2px;">38
+</td>
+<td style="padding:0px 2px;">387
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Washburn_County,_Wisconsin" title="Washburn County, Wisconsin">Washburn</a>
+</th>
+<td style="padding:0px 2px;">0
+</td>
+<td style="padding:0px 2px;">99
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Washington_County,_Wisconsin" title="Washington County, Wisconsin">Washington</a>
+</th>
+<td style="padding:0px 2px;">73
+</td>
+<td style="padding:0px 2px;">994
+</td>
+<td style="padding:0px 2px;">3
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Waukesha_County,_Wisconsin" title="Waukesha County, Wisconsin">Waukesha</a>
+</th>
+<td style="padding:0px 2px;">218
+</td>
+<td style="padding:0px 2px;">2,166
+</td>
+<td style="padding:0px 2px;">7
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Waupaca_County,_Wisconsin" title="Waupaca County, Wisconsin">Waupaca</a>
+</th>
+<td style="padding:0px 2px;">4
+</td>
+<td style="padding:0px 2px;">197
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Waushara_County,_Wisconsin" title="Waushara County, Wisconsin">Waushara</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">76
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Winnebago_County,_Wisconsin" title="Winnebago County, Wisconsin">Winnebago</a>
+</th>
+<td style="padding:0px 2px;">27
+</td>
+<td style="padding:0px 2px;">656
+</td>
+<td style="padding:0px 2px;">1
+</td></tr>
+<tr align="center" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><a href="/wiki/Wood_County,_Wisconsin" title="Wood County, Wisconsin">Wood</a>
+</th>
+<td style="padding:0px 2px;">2
+</td>
+<td style="padding:0px 2px;">271
+</td>
+<td style="padding:0px 2px;">0
+</td></tr>
+<tr align="center" class="sortbottom" style="font-weight:bold">
+<th scope="row" style="padding:0px 2px 1px; border-right:none;">
+</th>
+<th scope="row" style="padding:0px 2px 0px 1px; border-left:none;"><b>Totals: 64 / 72</b>
+</th>
+<td style="padding:0px 2px;">3,428
+</td>
+<td style="padding:0px 2px;"><b>36,769</b>
+</td>
+<td style="padding:0px 2px;"><b>154</b>
+</td></tr>
+<tr class="sortbottom" style="text-align:center;">
+<td colspan="5"><span style="font-size:90%;">As of 4/11/2020 · History of cases: <a href="/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/United_States_medical_cases_chart" title="Template:2019–20 coronavirus pandemic data/United States medical cases chart">United States</a></span>
+</td></tr></tbody></table>]
